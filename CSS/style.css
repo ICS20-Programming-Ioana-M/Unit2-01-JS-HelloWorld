@@ -1,0 +1,22 @@
+/* Created by: Ioana
+* Created on: Mar 10th 2022
+* This CSS file defines the style for index.html
+* ICS2O-Unit2-01-HTML-JS-HelloWorld
+*/
+
+body {
+	background-color: hsl(129, 3%, 54%);
+}
+
+h1 {
+	background-color: #F55D3E;
+;
+	color: hsl(194, 95%, 15%);
+	padding: 40px;
+	text-align: center;
+}
+
+p {
+	background-color: #F55D3E
+;
+}
